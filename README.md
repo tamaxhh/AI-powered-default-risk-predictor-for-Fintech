@@ -13,14 +13,14 @@ An end-to-end machine learning project to predict loan default risk using advanc
     - [Data Preparation & Engineering](#data-preparation--engineering)
     - [Model Training and Optimization](#model-training-and-optimization)
     - [Explainable AI (XAI)](#explainable-ai-xai)
-5. [Results](https://www.google.com/search?q=%23-results)
-6. [Key Insights](https://www.google.com/search?q=%23-key-insights)
-7. [Conclusion](https://www.google.com/search?q=%23-conclusion)
-8. [File Structure](https://www.google.com/search?q=%23-file-structure)
-9. [How to Run](https://www.google.com/search?q=%23-how-to-run)
-10. [Future Enhancements](https://www.google.com/search?q=%23-future-enhancements)
-11. [Contributing](https://www.google.com/search?q=%23-contributing)
-12. [License](https://www.google.com/search?q=%23-license)
+5. [Results](#results)
+6. [Key Insights](#key-insights)
+7. [Conclusion](#conclusion)
+8. [File Structure](#file-structure)
+9. [How to Run](#how-to-run)
+10. [Future Enhancements](#future-enhancements)
+11. [Contributing](#contributing)
+12. [License](#license)
 
 ---
 
@@ -121,6 +121,7 @@ The project is structured following ML engineering best practices with separate 
 │   ├── Loan Status Prediction.csv  # Raw Data 
 │   └── processed/
 │       └── processed_loan_data.csv
+├── Notebook
 ├── streamlit_app.py          # Interactive Streamlit App
 ├── logs/
 ├── models/                       # Trained models (e.g., xgb_model.sav)
@@ -152,7 +153,7 @@ The project is structured following ML engineering best practices with separate 
 Bash
 
 ```python
-git clone https://github.com/your-username/AI-Powered-Default-Risk-Predictor.git
+git clone https://github.com/tamaxhh/AI-powered-default-risk-predictor-for-Fintech.git
 
 cd AI-Powered-Default-Risk-Predictor
 ```
